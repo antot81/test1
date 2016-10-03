@@ -40,7 +40,7 @@ server.on("request",x);
 // server.emit("request");
 server.listen(8080);
 console.log("rr");
-
+console.log("ar");
 //---------------------------------------------------
 //++++
 // var EventEmitter=require('events');
