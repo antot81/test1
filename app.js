@@ -41,7 +41,7 @@ server.on("request",x);
 server.listen(8080);
 console.log("rr");
 console.log("ar");
-console.log("zr");
+console.log("zrg");
 //---------------------------------------------------
 //++++
 // var EventEmitter=require('events');
